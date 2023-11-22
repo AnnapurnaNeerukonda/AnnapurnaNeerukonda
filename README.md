@@ -1,6 +1,6 @@
-# 👨‍💻 AnnapurnaNeerukonda
+# 💻 AnnapurnaNeerukonda
 
-**`Front-end Developer`**
+**`Frontend entusiastic Developer`**
 
 Hi, I am Annapurna Neerukonda .I am currently pursuing B.Tech second year in Shri Vishnu Engineering college for Women. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
 In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms. 
