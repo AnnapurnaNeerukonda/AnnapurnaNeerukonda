@@ -32,7 +32,8 @@ In my academic journey so far, I have completed various coursework in computer p
 
 ## 🏆 My Badges
 
-https://www.holopin.io/@annapurnaneerukonda#badges
+
+[![@annapurnaneerukonda's Holopin board](https://holopin.me/annapurnaneerukonda)](https://holopin.io/@annapurnaneerukonda)
 ---
 <br><br>
 ### 📊 Stats
