@@ -2,8 +2,8 @@
 
 **`Frontend entusiastic Developer`**
 
-Hi, I am Annapurna Neerukonda .I am currently pursuing B.Tech second year in Shri Vishnu Engineering college for Women. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
-In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms. 
+Hi, I am Annapurna Neerukonda .I am currently pursuing B.Tech Third year in Shri Vishnu Engineering college for Women. I am a highly motivated and passionate individual who is committed to pursuing a career in software development.
+In my academic journey so far, I have completed various coursework in computer programming, data structures, algorithms , Database Management Systems. 
 
    <p align="left">
       <a href="https://github.com/AnnapurnaNeerukonda?tab=repositories&sort=stargazers">
@@ -13,7 +13,7 @@ In my academic journey so far, I have completed various coursework in computer p
 ---
 
 ### 🧰 Languages and Tools
-
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/459px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
