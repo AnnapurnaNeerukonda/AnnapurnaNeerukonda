@@ -7,7 +7,7 @@ In my academic journey so far, I have completed various coursework in computer p
 
    <p align="left">
       <a href="https://github.com/AnnapurnaNeerukonda?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AnnapurnaNeerukonda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AnnapurnaNeerukonda?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>10</a>
    </p>
 
 ---
